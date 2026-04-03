@@ -1,0 +1,13 @@
+{
+  "config": "<FRESCO_V3_CODE_ROOT>/experiments/EXP-070_regime_matching_authoritative_v3_hardware_cpu_standard_band_02_08_no_queuetime_plan2024/config/exp070_regime_matching_authoritative_v3_hardware_cpu_standard_band_02_08_no_queuetime_plan2024.json",
+  "created_utc": "2026-03-12T21:44:02Z",
+  "cwd": "<FRESCO_V3_CODE_ROOT>",
+  "git": {
+    "git_commit": null,
+    "git_root": "<FRESCO_V3_CODE_ROOT>",
+    "git_status_porcelain": null
+  },
+  "python": "3.10.19 (main, Oct 21 2025, 16:43:05) [GCC 11.2.0]",
+  "run_id": "EXP-070_regime_matching_authoritative_v3_hardware_cpu_standard_band_02_08_no_queuetime_plan2024",
+  "script": "<FRESCO_V3_CODE_ROOT>/scripts/regime_matching.py"
+}

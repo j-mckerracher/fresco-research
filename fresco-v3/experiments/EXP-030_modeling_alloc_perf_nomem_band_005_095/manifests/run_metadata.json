@@ -1,0 +1,12 @@
+{
+  "config": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\experiments\\EXP-030_modeling_alloc_perf_nomem_band_005_095\\config\\exp030_modeling_alloc_perf_nomem_band_005_095.json",
+  "created_utc": "2026-02-03T18:59:05Z",
+  "cwd": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3",
+  "git": {
+    "git_commit": "0b44df79c2a14077b8e0873d221a3f12e60ae44c",
+    "git_status_porcelain": "?? 01-Projects/FRESCO-Research/Experiments/EXP-014_memory_fractions_validation/\n?? 01-Projects/FRESCO-Research/Experiments/EXP-015_enhanced_validation/\n?? 01-Projects/FRESCO-v2/PHASE5_THREE_WAY_COMPARISON.md\n?? 01-Projects/FRESCO-v3/experiments/EXP-029_regime_matching_alloc_perf_nomem_band_005_095/\n?? 01-Projects/FRESCO-v3/experiments/EXP-030_modeling_alloc_perf_nomem_band_005_095/\n"
+  },
+  "python": "3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)]",
+  "run_id": "EXP-030_modeling_alloc_perf_nomem_band_005_095",
+  "script": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\scripts\\model_transfer.py"
+}

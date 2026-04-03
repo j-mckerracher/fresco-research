@@ -1,0 +1,12 @@
+{
+  "config": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\experiments\\EXP-027_modeling_alloc_perf_nomem_band_01_09_coral\\config\\exp027_modeling_alloc_perf_nomem_band_01_09_coral.json",
+  "created_utc": "2026-02-03T18:27:22Z",
+  "cwd": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3",
+  "git": {
+    "git_commit": "1b7d65f5a65f4320e30ccdb598404b90c2ff9bcb",
+    "git_status_porcelain": " M 01-Projects/FRESCO-v3/ZERO_SHOT_CROSS_CLUSTER_TRANSFER_PLAN.md\n M 01-Projects/FRESCO-v3/docs/MASTER_INDEX.md\n M 01-Projects/FRESCO-v3/scripts/model_transfer.py\n?? 01-Projects/FRESCO-Research/Experiments/EXP-014_memory_fractions_validation/\n?? 01-Projects/FRESCO-Research/Experiments/EXP-015_enhanced_validation/\n?? 01-Projects/FRESCO-v2/PHASE5_THREE_WAY_COMPARISON.md\n?? 01-Projects/FRESCO-v3/experiments/EXP-027_modeling_alloc_perf_nomem_band_01_09_coral/\n"
+  },
+  "python": "3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)]",
+  "run_id": "EXP-027_modeling_alloc_perf_nomem_band_01_09_coral",
+  "script": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\scripts\\model_transfer.py"
+}

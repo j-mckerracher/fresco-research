@@ -1,0 +1,1 @@
+Remote pipeline directory is a synced snapshot of local commit aa2457958db8ec9a0735da5f64129d00155a62d1; <FRESCO_V3_CODE_ROOT> is not a git checkout.

@@ -1,0 +1,12 @@
+{
+  "config": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\experiments\\EXP-024_regime_matching_alloc_perf_nomem_band_01_09\\config\\exp024_regime_matching_alloc_perf_nomem_band_01_09.json",
+  "created_utc": "2026-02-03T16:28:07Z",
+  "cwd": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3",
+  "git": {
+    "git_commit": "dfc7d8f5224d9db09ba7a7fd20993bbcf4565563",
+    "git_status_porcelain": "?? 01-Projects/FRESCO-Research/Experiments/EXP-014_memory_fractions_validation/\n?? 01-Projects/FRESCO-Research/Experiments/EXP-015_enhanced_validation/\n?? 01-Projects/FRESCO-v2/PHASE5_THREE_WAY_COMPARISON.md\n?? 01-Projects/FRESCO-v3/\n"
+  },
+  "python": "3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)]",
+  "run_id": "EXP-024_regime_matching_alloc_perf_nomem_band_01_09",
+  "script": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\scripts\\regime_matching.py"
+}

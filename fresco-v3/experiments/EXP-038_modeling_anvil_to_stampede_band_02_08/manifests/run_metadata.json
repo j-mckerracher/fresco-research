@@ -1,0 +1,12 @@
+{
+  "config": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\experiments\\EXP-038_modeling_anvil_to_stampede_band_02_08\\config\\exp038_modeling_anvil_to_stampede_band_02_08.json",
+  "created_utc": "2026-02-03T19:30:53Z",
+  "cwd": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3",
+  "git": {
+    "git_commit": "5e6492f5c1b4e8ffa944c8baccb542c646f0bf93",
+    "git_status_porcelain": " M 01-Projects/FRESCO-v3/scripts/model_transfer.py\n?? 01-Projects/FRESCO-Research/Experiments/EXP-014_memory_fractions_validation/\n?? 01-Projects/FRESCO-Research/Experiments/EXP-015_enhanced_validation/\n?? 01-Projects/FRESCO-v2/PHASE5_THREE_WAY_COMPARISON.md\n?? 01-Projects/FRESCO-v3/experiments/EXP-033_regime_matching_conte_to_stampede_band_02_08/\n?? 01-Projects/FRESCO-v3/experiments/EXP-034_modeling_conte_to_stampede_band_02_08/\n?? 01-Projects/FRESCO-v3/experiments/EXP-035_regime_matching_stampede_to_anvil_band_02_08/\n?? 01-Projects/FRESCO-v3/experiments/EXP-036_modeling_stampede_to_anvil_band_02_08/\n?? 01-Projects/FRESCO-v3/experiments/EXP-037_regime_matching_anvil_to_stampede_band_02_08/\n?? 01-Projects/FRESCO-v3/experiments/EXP-038_modeling_anvil_to_stampede_band_02_08/\n"
+  },
+  "python": "3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)]",
+  "run_id": "EXP-038_modeling_anvil_to_stampede_band_02_08",
+  "script": "C:\\Users\\jmckerra\\ObsidianNotes\\Main\\01-Projects\\FRESCO-v3\\scripts\\model_transfer.py"
+}

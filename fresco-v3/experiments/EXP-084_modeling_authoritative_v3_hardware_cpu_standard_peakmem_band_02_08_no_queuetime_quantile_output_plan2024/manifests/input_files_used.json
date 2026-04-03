@@ -1,0 +1,32 @@
+[
+  {
+    "bytes": 25240648497,
+    "cluster": "anvil",
+    "path": "<FRESCO_DATA_ROOT>/chunks-v3/PROD-20260203-v3_v3.parquet",
+    "sha256": "ae02e5ebdc1a0bc08f49ba4782ecb7d7e8659d1e420503b57f3c2986fc453068"
+  },
+  {
+    "bytes": 25240648497,
+    "cluster": "conte",
+    "path": "<FRESCO_DATA_ROOT>/chunks-v3/PROD-20260203-v3_v3.parquet",
+    "sha256": "ae02e5ebdc1a0bc08f49ba4782ecb7d7e8659d1e420503b57f3c2986fc453068"
+  },
+  {
+    "bytes": 2821,
+    "cluster": "sampling_plan",
+    "path": "<FRESCO_V3_CODE_ROOT>/experiments/ANALYSIS_seed_instability/frozen_sampling_plan_exp070_hwcpu_standard_300k_24_seed2024.json",
+    "sha256": "a265ed1c923411f8fa630291c756cec13ee042a5640141688a79fdbe58afef48"
+  },
+  {
+    "bytes": 87415,
+    "cluster": "overlap",
+    "path": "<FRESCO_V3_CODE_ROOT>/experiments/EXP-070_regime_matching_authoritative_v3_hardware_cpu_standard_band_02_08_no_queuetime_plan2024/results/matched_source_indices.parquet",
+    "sha256": "c75c1234133cb7c1ae7ec0b04fdbb9c8cbcb5c02bcc4319ae6d0915d91df2962"
+  },
+  {
+    "bytes": 29352,
+    "cluster": "overlap",
+    "path": "<FRESCO_V3_CODE_ROOT>/experiments/EXP-070_regime_matching_authoritative_v3_hardware_cpu_standard_band_02_08_no_queuetime_plan2024/results/matched_target_indices.parquet",
+    "sha256": "484cf6dc0ec9f03ff8633e97105c63e4bdcf6e0e69832e4c6efcf474c7c5f2c0"
+  }
+]
